@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include vora_erpnext *.css
+recursive-include vora_erpnext *.csv
+recursive-include vora_erpnext *.html
+recursive-include vora_erpnext *.ico
+recursive-include vora_erpnext *.js
+recursive-include vora_erpnext *.json
+recursive-include vora_erpnext *.md
+recursive-include vora_erpnext *.png
+recursive-include vora_erpnext *.py
+recursive-include vora_erpnext *.svg
+recursive-include vora_erpnext *.txt
+recursive-exclude vora_erpnext *.pyc
