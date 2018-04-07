@@ -127,7 +127,15 @@ fixtures = [{"dt": "Custom Field", "filters":[["name", "in", ['Sales Invoice-sec
 															'Sales Invoice-delivery_note_date', 'Sales Invoice-other_references',
                                                             'Sales Invoice-terms_of_delivery', 'Sales Invoice-column_break_28',
                                                             'Sales Invoice-buyers_order_date', 'Sales Invoice-mode_terms_of_payment'
-                                                            'Sales Invoice-destination', 'Sales Invoice-e_way_bill']]]},
+                                                            'Sales Invoice-destination', 'Sales Invoice-e_way_bill',
+                                                            'Delivery Note-section_break_14', 
+															'Delivery Note-supplier_ref',
+															'Delivery Note-buyers_order_no', 'Delivery Note-despatch_document_no',
+															'Delivery Note-despatched_through', 'Delivery Note-country',
+															'Delivery Note-other_references',
+                                                            'Delivery Note-terms_of_delivery', 'Delivery Note-column_break_22',
+                                                            'Delivery Note-buyers_order_date', 'Delivery Note-mode_terms_of_payment'
+                                                            'Delivery Note-destination', 'Delivery Note-e_way_bill_no']]]},
             {"dt": "Print Format", "filters": [["name", "in", ["challan_cum_tax_invoice"]]]},
             {"dt": "Letter Head", "filters": [["name", "in", ["vora industries"]]]},
             {"dt": "Terms and Conditions", "filters": [["name", "in", ["Challan Cum Sales Invoice", "Delivery_note"]]]},]
