@@ -1,13 +1,13 @@
 [
  {
-  "content": "<div style=\"text-align: center;\"><span style=\"font-size: 14px;\">\ufeff</span><b><span style=\"font-size: 18px;\">Vora Industries</span></b></div><div style=\"text-align: center;\"><span style=\"font-size: 14px;\">\ufeff91, JAWAHAR INDUSTRIAL ESTATE, KAMOTHE, PANVEL, NAVI MUMABI - 410209</span><br></div><div style=\"text-align: center;\">MAHARASHTRA, INDIA</div><div style=\"text-align: center;\"><b>GSTIN/UIN: 27AADFV8093K1Z1</b></div><div style=\"text-align: center;\">PHONE: 022 7431961/2968 / E-mail: info@voratools.net</div>", 
+  "content": "<div style=\"text-align: center;\"><span style=\"font-size: 14px;\">\ufeff</span><b><span style=\"font-size: 18px;\">Vora Industries</span></b></div>\n<div style=\"text-align: center;\"><span style=\"font-size: 12px;\">\ufeff91, JAWAHAR INDUSTRIAL ESTATE, KAMOTHE, PANVEL, NAVI MUMABI - 410209</span><br></div>\n<div style=\"text-align: center;\"><span style=\"font-size: 12px;\">MAHARASHTRA, INDIA</span></div>\n<div style=\"text-align: center;\"><b><span style=\"font-size: 12px;\">GSTIN/UIN: 27AADFV8093K1Z1</span></b></div>\n<div style=\"text-align: center;\"><span style=\"font-size: 12px;\">PHONE: 022 7431961/2968 / E-mail: info@voratools.net</span></div>", 
   "disabled": 0, 
   "docstatus": 0, 
   "doctype": "Letter Head", 
   "footer": "", 
   "is_default": 1, 
   "letter_head_name": "vora industries", 
-  "modified": "2018-04-03 09:36:54.968690", 
+  "modified": "2018-04-11 16:09:12.667535", 
   "name": "vora industries"
  }
 ]

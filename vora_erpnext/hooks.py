@@ -126,7 +126,7 @@ fixtures = [{"dt": "Custom Field", "filters":[["name", "in", ['Sales Invoice-sec
 															'Sales Invoice-despatched_through', 'Sales Invoice-country',
 															'Sales Invoice-delivery_note_date', 'Sales Invoice-other_references',
                                                             'Sales Invoice-terms_of_delivery', 'Sales Invoice-column_break_28',
-                                                            'Sales Invoice-buyers_order_date', 'Sales Invoice-mode_terms_of_payment'
+                                                            'Sales Invoice-buyers_order_date', 'Sales Invoice-mode_terms_of_payment',
                                                             'Sales Invoice-destination', 'Sales Invoice-e_way_bill',
                                                             'Delivery Note-section_break_14', 
 															'Delivery Note-supplier_ref',
